@@ -252,7 +252,7 @@ function App() {
           <div className="mb-8">
             <div className="w-40 h-40 mx-auto mb-6 rounded-full bg-gradient-to-br from-red-400 to-red-600 p-2 shadow-2xl flex items-center justify-center">
               <img 
-                src="/WhatsApp Image 2025-07-07 at 11.12.49_99569377.jpg" 
+                src="./WhatsApp Image 2025-07-07 at 11.12.49_99569377.jpg" 
                 alt="H.Ravi Teja Profile" 
                 className="w-full h-full rounded-full object-cover border-4 border-red-900/50 bg-red-900"
                 style={{ display: 'block', objectPosition: 'center 20%' }}
