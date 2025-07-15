@@ -384,31 +384,6 @@ function App() {
               </div>
             ))}
           </div>
-
-          <div className="mt-16 grid md:grid-cols-3 gap-8">
-            <div className="text-center">
-              <div className="w-16 h-16 mx-auto mb-4 bg-gradient-to-br from-red-500 to-red-600 rounded-full flex items-center justify-center">
-                <span className="text-2xl font-bold">10+</span>
-              </div>
-              <h3 className="text-xl font-semibold mb-2">Years Experience</h3>
-              <p className="text-red-300">Building enterprise applications</p>
-            </div>
-            <div className="text-center">
-              <div className="w-16 h-16 mx-auto mb-4 bg-gradient-to-br from-red-500 to-red-600 rounded-full flex items-center justify-center">
-                <span className="text-2xl font-bold">75+</span>
-              </div>
-              <h3 className="text-xl font-semibold mb-2">Projects Delivered</h3>
-              <p className="text-red-300">From startups to Fortune 500</p>
-            </div>
-            <div className="text-center">
-              <div className="w-16 h-16 mx-auto mb-4 bg-gradient-to-br from-red-500 to-red-600 rounded-full flex items-center justify-center">
-                <span className="text-2xl font-bold">20+</span>
-              </div>
-              <h3 className="text-xl font-semibold mb-2">Team Members Led</h3>
-              <p className="text-red-300">Mentoring next-gen developers</p>
-            </div>
-          </div>
-        </div>
       </section>
 
       {/* Projects Section */}
