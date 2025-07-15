@@ -70,7 +70,7 @@ function App() {
       title: 'Event Management Certification',
       issuer: 'Professional Event Management Institute',
       date: '2023',
-      image: '/Event.jpg',
+      image: './Event.jpg',
       description: 'Comprehensive certification in event planning, coordination, and management. Covers logistics, vendor management, and successful event execution.',
       credentialId: 'CERT-2023-EM-001',
       type: 'certification'
@@ -79,7 +79,7 @@ function App() {
       title: 'TCS Digital Certification',
       issuer: 'Tata Consultancy Services',
       date: '2023',
-      image: '/Tcs.jpg',
+      image: './Tcs.jpg',
       description: 'Professional certification in digital technologies and consulting services. Demonstrates expertise in IT consulting and digital transformation.',
       credentialId: 'Cert ID: 240640-28228918-1016',
       type: 'certification'
@@ -88,7 +88,7 @@ function App() {
       title: 'SQL Database Administration',
       issuer: 'Microsoft Certified',
       date: '2023',
-      image: '/Sql.jpg',
+      image: './Sql.jpg',
       description: 'Advanced certification in SQL database design, administration, and optimization. Covers data modeling, performance tuning, and security.',
       credentialId: '1008698620CSSQL12C',
       type: 'certification'
@@ -97,7 +97,7 @@ function App() {
       title: 'Java Development Certification',
       issuer: 'Oracle Certified Professional',
       date: '2022',
-      image: '/Java.jpg',
+      image: './Java.jpg',
       description: 'Professional Java programming certification covering core Java concepts, enterprise development, and best practices in software development.',
       credentialId: 'ORACLE-JAVA-2022-004',
       type: 'certification'

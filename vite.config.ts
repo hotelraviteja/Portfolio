@@ -1,9 +1,8 @@
-import { defineConfig } from 'vite';
+import { defineConfig } from 'vite'; // Make sure this import exists
 import react from '@vitejs/plugin-react';
 
-// https://vitejs.dev/config/
 export default defineConfig({
-  base: '/Portfolio/', // 👈 your GitHub repo name
+  base: '/Portfolio/', // your repo name
   plugins: [react()],
   optimizeDeps: {
     exclude: ['lucide-react'],
